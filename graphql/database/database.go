@@ -13,3 +13,5 @@ func Open() (*gorm.DB, error) {
 	}
 	return db, nil
 }
+
+//work in progress
